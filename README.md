@@ -26,3 +26,4 @@ docker build -y my-image .
 
 ## Recipes
 - [Dockerfile to build image for CI/CD Pipeline agents](./cicd-agent-image/)
+- [Deployer image for CI/CD with Terraform, Helm, SOPS, Kubectl, Helmfile, Helmsman CLI tools and Helm plugins](./deployer/)
